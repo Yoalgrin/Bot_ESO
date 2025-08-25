@@ -26,8 +26,7 @@ Il analyse automatiquement plusieurs **flux RSS** de sites spécialisés et affi
 ## 🧪 Sites suivis via RSS
 
 - [AlcastHQ](https://alcasthq.com/) → `https://alcasthq.com/feed/`
-- [Deltia's Gaming](https://deltiasgaming.com/) → `https://deltiasgaming.com/category/eso/feed/`
-- [Hack the Minotaur](https://www.hacktheminotaur.com/) → `https://www.hacktheminotaur.com/eso-guides?format=rss`
+
 
 ---
 
